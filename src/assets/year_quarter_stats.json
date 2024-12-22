@@ -1,0 +1,51 @@
+{
+    "2018": {
+        "total": 44,
+        "spring": 6,
+        "summer": 14,
+        "autumn": 11,
+        "winter": 13
+    },
+    "2019": {
+        "total": 33,
+        "spring": 3,
+        "summer": 15,
+        "autumn": 6,
+        "winter": 9
+    },
+    "2020": {
+        "total": 42,
+        "spring": 6,
+        "summer": 5,
+        "autumn": 15,
+        "winter": 16
+    },
+    "2021": {
+        "total": 49,
+        "spring": 10,
+        "summer": 14,
+        "autumn": 9,
+        "winter": 16
+    },
+    "2022": {
+        "total": 59,
+        "spring": 17,
+        "summer": 14,
+        "autumn": 17,
+        "winter": 11
+    },
+    "2023": {
+        "total": 77,
+        "spring": 23,
+        "summer": 16,
+        "autumn": 21,
+        "winter": 17
+    },
+    "2024": {
+        "total": 132,
+        "spring": 28,
+        "summer": 32,
+        "autumn": 54,
+        "winter": 18
+    }
+}
