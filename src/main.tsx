@@ -9,7 +9,7 @@ import Top10ChartPage from './pages/Top10ChartPage';
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 
 root.render(
-  <Router>
+  <Router basename="/visual/">
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/scatter-chart" element={<ScatterChartPage />} />

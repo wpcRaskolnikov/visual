@@ -1,7 +1,6 @@
 {
   "name": "my-react-app",
-  "homepage": "https://wpcraskolnikov.github.io/visual",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
