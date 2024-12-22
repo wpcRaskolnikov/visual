@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+  "homepage": "https://wpcraskolnikov.github.io/my-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
